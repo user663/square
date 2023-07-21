@@ -24,7 +24,7 @@ section {
 article {
   width: 300px;
   height: 300px;
-  background: hotpink;
+  background: blueviolet;
   display: flex;
   justify-content: center;
   align-items: center;
